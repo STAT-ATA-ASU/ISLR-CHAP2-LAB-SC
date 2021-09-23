@@ -1,7 +1,7 @@
 ---
 title: "Introduction To R using [R Markdown](http://rmarkdown.rstudio.com/) and [Bookdown](https://bookdown.org/yihui/bookdown/)"
 author: "Your Name"
-date: '`r format(Sys.time(), "%B %d, %Y at %X")`' 
+date: "Current date and time" 
 bibliography: PackagesUsed.bib
 output: 
   bookdown::html_document2: 
