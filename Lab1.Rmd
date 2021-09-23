@@ -29,7 +29,7 @@ knitr::opts_chunk$set(comment = NA, fig.align = 'center', fig.height = 5, fig.wi
                       message = FALSE)
 ```
 
-# Lab^[The material in Section \@ref(lab) is modified from the Chapter 2 lab of [_An introduction to Statistical Learning_](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf).] {#lab} 
+# Lab^[The material in Section \@ref(lab) is modified from the Chapter 2 lab of [_An introduction to Statistical Learning_](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf).] {#lab} 
 
 
 ## Basic Commands
